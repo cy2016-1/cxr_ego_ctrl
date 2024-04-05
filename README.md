@@ -6,6 +6,8 @@ ego-planner+PX4自定义控制器V1版本(告别PX4Ctrl）,这玩意用在ego上
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxx
+1.  cd到主目录
+2.  `git clone https://gitee.com/Canada-a/cxr_ego_ctrl.git`
+3.  `cd cxr_ego_ctrl`
+4.  `catkin_make`
+编译完成后去cxr_egoctrl_v1.cpp的代码里面看用法就行，都写到注释里了。
