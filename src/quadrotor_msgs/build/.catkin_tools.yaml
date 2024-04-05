@@ -1,0 +1,6 @@
+devel_space: /home/cxr/Fast-Drone-250/src/utils/quadrotor_msgs/devel
+install: false
+install_space: /home/cxr/Fast-Drone-250/src/utils/quadrotor_msgs/install
+profile: default
+source_space: /home/cxr/Fast-Drone-250/src/utils/quadrotor_msgs/src
+workspace: /home/cxr/Fast-Drone-250/src/utils/quadrotor_msgs
